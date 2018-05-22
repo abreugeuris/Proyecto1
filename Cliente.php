@@ -1,3 +1,3 @@
 <?php
- echo "clase cliente"; 
+ echo "Programa cliente"; 
  ?>
